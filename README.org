@@ -1,0 +1,5 @@
+* Nix Intro Examples
+Some examples showing the capabilities of Nix,
+accompanying the "Introduction to Nix" talk I held internally for the developers at GridX.
+
+Check out the branches and take a look!
